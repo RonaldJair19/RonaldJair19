@@ -3,6 +3,8 @@
 
 - 👨‍💻 He desarrollado un proyecto de IoT para la detección y alerta de inundaciones, empleando LoRaWAN. [ArduDetectorInundacion](https://github.com/RonaldJair19/ArduDetectorInundacion)
 
+- 👨‍💻 Actualmente desarrollo aplicaciones web en el front-end utilizando Vue 2 y Vuetify.
+
 - 📫 Puedes contactarme a mi correo electrónico: **ronald.jair19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
